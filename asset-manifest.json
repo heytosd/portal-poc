@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portal-poc/static/css/main.11bae58a.css",
-    "main.js": "/portal-poc/static/js/main.54b5382a.js",
+    "main.js": "/portal-poc/static/js/main.d999e844.js",
     "static/js/787.d82ad4a6.chunk.js": "/portal-poc/static/js/787.d82ad4a6.chunk.js",
     "index.html": "/portal-poc/index.html",
     "main.11bae58a.css.map": "/portal-poc/static/css/main.11bae58a.css.map",
-    "main.54b5382a.js.map": "/portal-poc/static/js/main.54b5382a.js.map",
+    "main.d999e844.js.map": "/portal-poc/static/js/main.d999e844.js.map",
     "787.d82ad4a6.chunk.js.map": "/portal-poc/static/js/787.d82ad4a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11bae58a.css",
-    "static/js/main.54b5382a.js"
+    "static/js/main.d999e844.js"
   ]
 }
